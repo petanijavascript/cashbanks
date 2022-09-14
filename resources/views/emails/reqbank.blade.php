@@ -1,0 +1,2 @@
+user : {{$user}}
+bank : {{$bank}}
